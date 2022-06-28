@@ -1,0 +1,13 @@
+--Language
+local ad = "create(AD*3_G__VERSION"
+local ar = math.asin(5.3)
+local uis = game:GetService("UserInputService")
+local keyfunction = uis.InputBegan
+local keys = uis.KeyboardBtns
+local newVar = "variable.New{var2}"
+local public = game.Publicity == nil == 2
+local jsonAddons = game.Plugins.JSON.Enabled == true
+
+--ScriptMain
+
+game.Name.reverse()
